@@ -6,8 +6,8 @@
 		<RootNamespace>InstantChargeShrine.MelonLoaderMod</RootNamespace>
 		<LangVersion>default</LangVersion>
 		<IsPackable>false</IsPackable>
-		<AssemblyVersion>1.0.0.0</AssemblyVersion>
-		<FileVersion>1.0.0.0</FileVersion>
+		<AssemblyVersion>1.0.3</AssemblyVersion>
+		<FileVersion>1.0.3</FileVersion>
 		<NeutralLanguage>en-US</NeutralLanguage>
 		<AssemblyName>InstantChargeShrine.MelonLoaderMod</AssemblyName>
 		<LangVersion>latest</LangVersion>
